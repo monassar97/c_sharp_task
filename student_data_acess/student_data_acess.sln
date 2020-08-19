@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "student_data_acess", "student_data_acess.csproj", "{70481148-2A35-4EA9-A47D-5B96DC04AF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70481148-2A35-4EA9-A47D-5B96DC04AF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70481148-2A35-4EA9-A47D-5B96DC04AF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70481148-2A35-4EA9-A47D-5B96DC04AF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70481148-2A35-4EA9-A47D-5B96DC04AF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9144F233-77E8-4952-A581-81BD1CCCA13E}
+	EndGlobalSection
+EndGlobal
